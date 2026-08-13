@@ -1,13 +1,13 @@
-## Activity 01 - Explore LLM models on Hugging Face
+## Activity 1 — Explore LLM Models on Hugging Face
 
-Pick Three models on Hugging Face - one small, one medium, one large
+Pick three models on Hugging Face — one small, one medium, one large.
 
-1) Who created the Model?
-2) How many parametes does it have?
-3) Is it a generative model?
-4) What is the Context length
-5) Suitable for local execution?
-6) What hardware card the model card recommend
+- Who created the model?
+- How many parameters does it have?
+- Is it a generative model?
+- What is the context length?
+- Is the model suitable for local execution?
+- What hardware does the model card recommend?
 
 
 
