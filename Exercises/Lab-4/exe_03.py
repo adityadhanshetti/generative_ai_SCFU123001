@@ -63,6 +63,8 @@ If no action items are found, say: "No action items identified."
 
 Discussion Summary:
 {discussion_summary}
+
+
 """
 
 FORMATTER_PROMPT = """
@@ -82,7 +84,7 @@ Action Items:
 {action_items}
 """
 
-transcript_text = input("Enter Transcript : ")
+transcript_text = input("Enter Transcript : ") 
 
 MODEL = "openai/gpt-oss-20b"
 
